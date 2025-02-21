@@ -14,7 +14,7 @@
 
 2. Installez **OhMyTermux** avec **[Gum](https://github.com/charmbracelet/gum)** (**recommendé**🔥) :
 ```bash
-curl -sL https://raw.githubusercontent.com/GiGiDKR/OhMyTermux/1.0.0/install_fr.sh -o install_fr.sh && chmod +x install_fr.sh && ./install_fr.sh --gum
+curl -sL https://raw.githubusercontent.com/GiGiDKR/OhMyTermux/1.0.0/install.fr.sh -o install.fr.sh && chmod +x install.fr.sh && ./install.fr.sh --gum
 ```
 
 </details>
@@ -24,7 +24,7 @@ curl -sL https://raw.githubusercontent.com/GiGiDKR/OhMyTermux/1.0.0/install_fr.s
 <summary>🧊 Méthode alternative</summary>
 
 ```bash
-curl -sL https://raw.githubusercontent.com/GiGiDKR/OhMyTermux/1.0.0/install_fr.sh -o install_fr.sh && chmod +x install_fr.sh && ./install_fr.sh
+curl -sL https://raw.githubusercontent.com/GiGiDKR/OhMyTermux/1.0.0/install.fr.sh -o install.fr.sh && chmod +x install.fr.sh && ./install.fr.sh
 ```
 </details>
 
