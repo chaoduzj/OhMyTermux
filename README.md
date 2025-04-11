@@ -1,6 +1,6 @@
 # OhMyTermux 🧊
 
-![Banner1](assets/ohmytermux_1.jpg)
+![Banner1](assets/ohmytermux_15.png)
 
 ### **From selecting a shell to applying a cursor pack to performing stylish clicks in a complete Debian development environment that fits in your pocket  : dozens of parameters are available in [OhMyTermux](https://github.com/GiGiDKR/OhMyTermux).**
 
@@ -339,4 +339,4 @@ Version 1.0.0 :
 
 https://github.com/user-attachments/assets/ec49fc8d-bc69-4b95-ade4-5ca2ae57a105
 
-![SubBanner](assets/ohmytermux_5.jpg)
+![SubBanner](assets/ohmytermux_10.jpg)
