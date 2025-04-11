@@ -10,7 +10,7 @@
 ## Installation
 
 1. Install Termux from [F-Droid](https://f-droid.org/en/packages/com.termux), [GitHub](https://github.com/termux/termux-app) or [Play Store](https://play.google.com/store/apps/details?id=com.termux&pcampaignid=web_share).
-
+> 🚀 Latest version of Termux : [v0.119.0-beta.2](https://github.com/termux/termux-app/releases/tag/v0.119.0-beta.2)
 2. Install **OhMyTermux** with **[Gum](https://github.com/charmbracelet/gum)** (**recommended**🔥) :
 ```bash
 curl -sL https://raw.githubusercontent.com/GiGiDKR/OhMyTermux/1.0.0/install.sh -o install.sh && chmod +x install.sh && ./install.sh --gum
