@@ -339,4 +339,9 @@ Version 1.0.0 :
 
 https://github.com/user-attachments/assets/ec49fc8d-bc69-4b95-ade4-5ca2ae57a105
 
-![SubBanner](assets/ohmytermux_10.jpg)
+<a href="https://next.ossinsight.io/widgets/official/analyze-repo-stars-history?repo_id=847021315" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-repo-stars-history/thumbnail.png?repo_id=847021315&image_size=auto&color_scheme=dark" width="721" height="auto">
+    <img alt="Star History of GiGiDKR/OhMyTermux" src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-history/thumbnail.png?repo_id=847021315&image_size=auto&color_scheme=light" width="721" height="auto">
+  </picture>
+</a>
